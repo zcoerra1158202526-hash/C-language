@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+double add(double a, double b) {
+    return a + b;
+}
+
+// Example usage inside main:
+// printf("Sum: %.2f\n", add(5.0, 3.0));
